@@ -28,37 +28,37 @@ In the Pre-Assessment Quiz, you will be asked a series of multiple-choice questi
   [( )] A sample is larger than a population
   [( )] There is no difference between a population and a sample
 
-  [[?]] Think about the terms in the context of data collection and analysis
-  [[?]] Which term refers to the entire group of interest?
+  [[?]] Consider the context of data collection and analysis
+  [[?]] Which term refers to the entire group of interest, and which refers to a smaller portion?
 
 2. Question 2: What does a p-value represent?
 
-  [[ ]] The probability of observing a test statistic as extreme or more extreme than the one observed, given that the null hypothesis is true
-  [[X]] The probability of the null hypothesis being true
-  [[ ]] The probability of the alternative hypothesis being true
-  [[ ]] The probability of observing a test statistic as extreme or more extreme than the one observed, given that the alternative hypothesis is true
+  [(X)] The probability of observing a test statistic as extreme or more extreme than the one observed, given that the null hypothesis is true
+  [( )] The probability of the null hypothesis being true
+  [( )] The probability of the alternative hypothesis being true
+  [( )] The probability of observing a test statistic as extreme or more extreme than the one observed, given that the alternative hypothesis is true
 
-  [[?]] Consider the role of a p-value in hypothesis testing
+  [[?]] Reflect on the role of a p-value in hypothesis testing
   [[?]] Remember that the p-value is used to make decisions about the null hypothesis
 
 3. Question 3: What is the purpose of a confidence interval?
 
-  [[X]] To estimate a population parameter with a certain level of confidence
-  [[ ]] To test a hypothesis about a population mean or proportion
-  [[ ]] To calculate the probability of observing a particular sample
-  [[ ]] To determine the sample size needed for a study
+  [(X)] To estimate a population parameter with a certain level of confidence
+  [( )] To test a hypothesis about a population mean or proportion
+  [( )] To calculate the probability of observing a particular sample
+  [( )] To determine the sample size needed for a study
 
-  [[?]] Consider the concept of confidence in the context of estimation
+  [[?]] Think about the concept of confidence in the context of estimation
   [[?]] Recall that a confidence interval provides a range of plausible values for a population parameter
 
 4. Question 4: Which of the following is not a condition for performing a t-test?
 
   [( )] Independence
-  [(X)] Normality of the sample
-  [( )] Random sampling
+  [( )] Normality of the sample
+  [(X)] Random sampling
   [( )] Approximately normal population distribution
 
-  [[?]] Remember the assumptions made when performing a t-test
+  [[?]] Review the assumptions made when performing a t-test
   [[?]] Recall that a t-test is used when the population standard deviation is unknown
 
 5. Question 5: When should a chi-square test be used?
@@ -68,28 +68,29 @@ In the Pre-Assessment Quiz, you will be asked a series of multiple-choice questi
   [( )] When the data is ordinal and the samples are dependent
   [( )] When the data is normally distributed and the population standard deviation is known
 
-  [[?]] Consider the types of data appropriate for a chi-square test
-  [[?]] Recall the assumptions made when performing a chi-square test
+  [[?]] Think about the types of data appropriate for a chi-square test
+  [[?]] Remember the assumptions made when performing a chi-square test
 
 6. Question 6: What is the purpose of a Type I error?
 
-  [[ ]] Rejecting a true null hypothesis
-  [[X]] Failing to reject a false null hypothesis
-  [[ ]] Accepting a true alternative hypothesis
-  [[ ]] Failing to reject a true null hypothesis
+  [(X)] Rejecting a true null hypothesis
+  [( )] Failing to reject a false null hypothesis
+  [( )] Accepting a true alternative hypothesis
+  [( )] Failing to reject a true null hypothesis
 
   [[?]] Consider the relationship between Type I errors and hypothesis testing
   [[?]] Recall that Type I errors are associated with false rejections
 
 7. Question 7: What is the coefficient of determination (R²)?
 
-  [[ ]] The proportion of the total variation in the dependent variable that is explained by the independent variable
-  [[X]] The square of the correlation coefficient
-  [[ ]] The ratio of the explained variation to the unexplained variation
-  [[ ]] The strength and direction of a linear relationship between two variables
+  [(X)] The proportion of the total variation in the dependent variable that is explained by the independent variable
+  [( )] The square of the correlation coefficient
+  [( )] The ratio of the explained variation to the unexplained variation
+  [( )] The strength and direction of a linear relationship between two variables
 
-  [[?]] Think about the purpose of the coefficient of determination in the context of regression
-  [[?]] Recall that R² is used to measure the goodness of fit of a regression model
+  [[?]] Reflect on the purpose of the coefficient of determination in the context of regression
+  [[?]] Remember that R² is used to measure the goodness of fit of a regression model
+
 
 ## Introduction
 
