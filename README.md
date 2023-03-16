@@ -61,11 +61,12 @@ In the Pre-Assessment Quiz, you will be asked a series of multiple-choice questi
   [[?]] Remember the assumptions made when performing a t-test
   [[?]] Recall that a t-test is used when the population standard deviation is unknown
 
-5. Question 5: When is it appropriate to use a chi-square test?
+5. Question 5: When should a chi-square test be used?
 
-  [ [ ] ] [ [X] ] [ [ ] ]
-  [ ( ) ] [ (X) ] [ ( ) ] <-- Single Choice
-  [   Independence ] [   Categorical data ] [   Equal sample sizes   ]
+  [( )] When the data is continuous and normally distributed
+  [(X)] When the data is categorical and the samples are independent
+  [( )] When the data is ordinal and the samples are dependent
+  [( )] When the data is normally distributed and the population standard deviation is known
 
   [[?]] Consider the types of data appropriate for a chi-square test
   [[?]] Recall the assumptions made when performing a chi-square test
